@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on </title>
-    <link>/tags/</link>
+    <link>https://jwcaterine.com/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 26 Apr 2023 15:23:14 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Apr 2023 15:23:14 -0400</lastBuildDate><atom:link href="https://jwcaterine.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>criminal justice</title>
-      <link>/tags/criminal-justice/</link>
+      <link>https://jwcaterine.com/tags/criminal-justice/</link>
       <pubDate>Wed, 26 Apr 2023 15:23:14 -0400</pubDate>
       
-      <guid>/tags/criminal-justice/</guid>
+      <guid>https://jwcaterine.com/tags/criminal-justice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>health</title>
-      <link>/tags/health/</link>
+      <link>https://jwcaterine.com/tags/health/</link>
       <pubDate>Wed, 26 Apr 2023 15:23:14 -0400</pubDate>
       
-      <guid>/tags/health/</guid>
+      <guid>https://jwcaterine.com/tags/health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>news</title>
-      <link>/tags/news/</link>
+      <link>https://jwcaterine.com/tags/news/</link>
       <pubDate>Wed, 26 Apr 2023 15:23:14 -0400</pubDate>
       
-      <guid>/tags/news/</guid>
+      <guid>https://jwcaterine.com/tags/news/</guid>
       <description></description>
     </item>
     
