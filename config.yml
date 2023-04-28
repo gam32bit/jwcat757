@@ -37,6 +37,8 @@ params:
           url: "https://www.linkedin.com/in/joseph-caterine-578a73268/"
         - name: GitHub
           url: "https://github.com/gam32bit"
+        - name: Youtube
+          url: "https://www.youtube.com/@JWCat757"
 
 menu:
       main:
@@ -46,9 +48,6 @@ menu:
          - name: Archive
            url: archives/
            weight: 5
-         - name: Search
-           url: search/
-           weight: 10
          - name: Tags
            url: tags/
            weight: 10
