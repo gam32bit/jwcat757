@@ -14,7 +14,7 @@ params:
     profileMode:
         enabled: false
         title: PaperMod
-        imageUrl: "static/img/home.jpg"
+        imageUrl: "https://yt3.googleusercontent.com/ZDSd8F6GDLoxfc1_rSGLy5QGiGFaKqb5Ga823oJO5w6cboQksKWe7w10f1-z_AyIPbpWsmTawUM=s176-c-k-c0x00ffffff-no-rj"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
