@@ -1,6 +1,6 @@
 ---
 title: "Retired Poquoson Fire Chief Bio"
-date: 2023-05-24T15:07:19-04:00
+date: 2023-05-23T15:07:19-04:00
 tags: ["Poquoson", "News", "Public Safety"]
 ---
 

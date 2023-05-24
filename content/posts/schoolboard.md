@@ -1,5 +1,5 @@
 ---
-title: "James City County Budget"
+title: "WJCC School Board Coverage"
 date: 2023-05-19T18:38:31-04:00
 tags: ["News", "Williamsburg", "Education"]
 ---

@@ -3,24 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jwcaterine.com/</loc>
-    <lastmod>2023-05-19T18:38:31-04:00</lastmod>
+    <lastmod>2023-05-23T15:07:19-04:00</lastmod>
+  </url><url>
+    <loc>https://jwcaterine.com/tags/news/</loc>
+    <lastmod>2023-05-23T15:07:19-04:00</lastmod>
+  </url><url>
+    <loc>https://jwcaterine.com/tags/poquoson/</loc>
+    <lastmod>2023-05-23T15:07:19-04:00</lastmod>
+  </url><url>
+    <loc>https://jwcaterine.com/posts/</loc>
+    <lastmod>2023-05-23T15:07:19-04:00</lastmod>
+  </url><url>
+    <loc>https://jwcaterine.com/tags/public-safety/</loc>
+    <lastmod>2023-05-23T15:07:19-04:00</lastmod>
+  </url><url>
+    <loc>https://jwcaterine.com/posts/poqfire/</loc>
+    <lastmod>2023-05-23T15:07:19-04:00</lastmod>
+  </url><url>
+    <loc>https://jwcaterine.com/tags/</loc>
+    <lastmod>2023-05-23T15:07:19-04:00</lastmod>
   </url><url>
     <loc>https://jwcaterine.com/tags/education/</loc>
     <lastmod>2023-05-19T18:38:31-04:00</lastmod>
   </url><url>
-    <loc>https://jwcaterine.com/posts/schoolboard/</loc>
-    <lastmod>2023-05-19T18:38:31-04:00</lastmod>
-  </url><url>
-    <loc>https://jwcaterine.com/tags/news/</loc>
-    <lastmod>2023-05-19T18:38:31-04:00</lastmod>
-  </url><url>
-    <loc>https://jwcaterine.com/posts/</loc>
-    <lastmod>2023-05-19T18:38:31-04:00</lastmod>
-  </url><url>
-    <loc>https://jwcaterine.com/tags/</loc>
-    <lastmod>2023-05-19T18:38:31-04:00</lastmod>
-  </url><url>
     <loc>https://jwcaterine.com/tags/williamsburg/</loc>
+    <lastmod>2023-05-19T18:38:31-04:00</lastmod>
+  </url><url>
+    <loc>https://jwcaterine.com/posts/schoolboard/</loc>
     <lastmod>2023-05-19T18:38:31-04:00</lastmod>
   </url><url>
     <loc>https://jwcaterine.com/tags/history/</loc>
@@ -28,6 +37,15 @@
   </url><url>
     <loc>https://jwcaterine.com/posts/hjtours/</loc>
     <lastmod>2023-05-17T18:38:31-04:00</lastmod>
+  </url><url>
+    <loc>https://jwcaterine.com/tags/dance/</loc>
+    <lastmod>2023-05-17T15:07:19-04:00</lastmod>
+  </url><url>
+    <loc>https://jwcaterine.com/tags/richmond/</loc>
+    <lastmod>2023-05-17T15:07:19-04:00</lastmod>
+  </url><url>
+    <loc>https://jwcaterine.com/posts/xglide/</loc>
+    <lastmod>2023-05-17T15:07:19-04:00</lastmod>
   </url><url>
     <loc>https://jwcaterine.com/posts/jcc_coverage/</loc>
     <lastmod>2023-05-12T18:38:31-04:00</lastmod>
@@ -53,9 +71,6 @@
     <loc>https://jwcaterine.com/posts/arboretum/</loc>
     <lastmod>2023-05-02T09:13:14-04:00</lastmod>
   </url><url>
-    <loc>https://jwcaterine.com/tags/dance/</loc>
-    <lastmod>2023-05-01T15:07:19-04:00</lastmod>
-  </url><url>
     <loc>https://jwcaterine.com/posts/studyyourarts/</loc>
     <lastmod>2023-05-01T15:07:19-04:00</lastmod>
   </url><url>
@@ -74,9 +89,5 @@
     <loc>https://jwcaterine.com/posts/archives/</loc>
   </url><url>
     <loc>https://jwcaterine.com/categories/</loc>
-  </url><url>
-    <loc>https://jwcaterine.com/tags/richmond/</loc>
-  </url><url>
-    <loc>https://jwcaterine.com/posts/xglide/</loc>
   </url>
 </urlset>

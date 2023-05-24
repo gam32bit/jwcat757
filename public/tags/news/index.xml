@@ -5,9 +5,18 @@
     <link>https://jwcaterine.com/tags/news/</link>
     <description>Recent content in News on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 May 2023 18:38:31 -0400</lastBuildDate><atom:link href="https://jwcaterine.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 15:07:19 -0400</lastBuildDate><atom:link href="https://jwcaterine.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>James City County Budget</title>
+      <title>Retired Poquoson Fire Chief Bio</title>
+      <link>https://jwcaterine.com/posts/poqfire/</link>
+      <pubDate>Tue, 23 May 2023 15:07:19 -0400</pubDate>
+      
+      <guid>https://jwcaterine.com/posts/poqfire/</guid>
+      <description>I did an interview with retired Poquoson Fire Chief Robert Holloway. Growing up in Poquoson, it&amp;rsquo;s a milestone for me to do a story about the place where I lived for so many years.</description>
+    </item>
+    
+    <item>
+      <title>WJCC School Board Coverage</title>
       <link>https://jwcaterine.com/posts/schoolboard/</link>
       <pubDate>Fri, 19 May 2023 18:38:31 -0400</pubDate>
       
@@ -22,6 +31,15 @@
       
       <guid>https://jwcaterine.com/posts/hjtours/</guid>
       <description>I covered the new tours at Historic Jamestown. It is quickly becoming one of my favorite places to visit locally.</description>
+    </item>
+    
+    <item>
+      <title>X-Glide Profile</title>
+      <link>https://jwcaterine.com/posts/xglide/</link>
+      <pubDate>Wed, 17 May 2023 15:07:19 -0400</pubDate>
+      
+      <guid>https://jwcaterine.com/posts/xglide/</guid>
+      <description>I published my first piece in RVA Mag about young dancer X-Glide. As a dancer myself, I was grateful for the opportunity to give back to the Virginia dance scene as well as show off my photography more than my usual pieces.</description>
     </item>
     
     <item>
@@ -99,15 +117,6 @@ I competed and reported on the Study Your Arts dance competition at this year&am
       
       <guid>https://jwcaterine.com/posts/lvcc/</guid>
       <description>I published my first article in the Virginia Mercury on the only privately run prison in Virginia, Lawrenceville Correctional Center. I obtained a series of memos from the Virginia Department of Corrections that showed GEO Group, the private operator, has had $4.3 million in contract breaches since 2018. I uploaded the memos to DocumentCloud along with the contract and other related documents.</description>
-    </item>
-    
-    <item>
-      <title>X-Glide Profile</title>
-      <link>https://jwcaterine.com/posts/xglide/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jwcaterine.com/posts/xglide/</guid>
-      <description>I published my first piece in RVA Mag about young dancer X-Glide. As a dancer myself, I was grateful for the opportunity to give back to the Virginia dance scene as well as show off my photography more than my usual pieces.</description>
     </item>
     
   </channel>
