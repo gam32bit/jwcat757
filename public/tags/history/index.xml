@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>history on </title>
+    <title>History on </title>
     <link>https://jwcaterine.com/tags/history/</link>
-    <description>Recent content in history on </description>
+    <description>Recent content in History on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 26 Apr 2023 15:23:14 -0400</lastBuildDate><atom:link href="https://jwcaterine.com/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 18:38:31 -0400</lastBuildDate><atom:link href="https://jwcaterine.com/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Tours at Jamestown</title>
+      <link>https://jwcaterine.com/posts/hjtours/</link>
+      <pubDate>Wed, 17 May 2023 18:38:31 -0400</pubDate>
+      
+      <guid>https://jwcaterine.com/posts/hjtours/</guid>
+      <description>I covered the new tours at Historic Jamestown. It is quickly becoming one of my favorite places to visit locally.</description>
+    </item>
+    
     <item>
       <title>Historic Jamestowne Volunteers</title>
       <link>https://jwcaterine.com/posts/jamestown/</link>
