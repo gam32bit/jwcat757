@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jwcaterine.com/posts/profile/</loc>
-    <lastmod>2023-06-03T07:50:54-04:00</lastmod>
-  </url><url>
     <loc>https://jwcaterine.com/</loc>
-    <lastmod>2023-06-03T07:50:54-04:00</lastmod>
-  </url><url>
-    <loc>https://jwcaterine.com/posts/</loc>
-    <lastmod>2023-06-03T07:50:54-04:00</lastmod>
+    <lastmod>2023-06-03T07:33:21-04:00</lastmod>
   </url><url>
     <loc>https://jwcaterine.com/tags/education/</loc>
     <lastmod>2023-06-03T07:33:21-04:00</lastmod>
@@ -18,6 +12,9 @@
     <lastmod>2023-06-03T07:33:21-04:00</lastmod>
   </url><url>
     <loc>https://jwcaterine.com/tags/news/</loc>
+    <lastmod>2023-06-03T07:33:21-04:00</lastmod>
+  </url><url>
+    <loc>https://jwcaterine.com/posts/</loc>
     <lastmod>2023-06-03T07:33:21-04:00</lastmod>
   </url><url>
     <loc>https://jwcaterine.com/posts/strsandlibrary/</loc>
