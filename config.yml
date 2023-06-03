@@ -1,6 +1,6 @@
 baseURL: 'https://jwcaterine.com'
 title: ''
-theme: "hugo-theme-stack"
+theme: "PaperMod"
         
     
 outputs:
