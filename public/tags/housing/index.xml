@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Housing on </title>
+    <link>https://jwcaterine.com/tags/housing/</link>
+    <description>Recent content in Housing on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 03 Jun 2023 07:33:21 -0400</lastBuildDate><atom:link href="https://jwcaterine.com/tags/housing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Short-term Rentals and Libraries</title>
+      <link>https://jwcaterine.com/posts/strsandlibrary/</link>
+      <pubDate>Sat, 03 Jun 2023 07:33:21 -0400</pubDate>
+      
+      <guid>https://jwcaterine.com/posts/strsandlibrary/</guid>
+      <description>This week I had a few pieces come out in the Gazette, including my coverage of the JCC Board of Supervisors meeting. Two of the main topics of discussion were possible new regulations for short-term rentals as well as plans for new libraries.</description>
+    </item>
+    
+  </channel>
+</rss>
