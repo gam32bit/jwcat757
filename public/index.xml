@@ -5,7 +5,17 @@
     <link>https://jwcaterine.com/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 10:01:02 -0400</lastBuildDate><atom:link href="https://jwcaterine.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2023 13:14:14 -0400</lastBuildDate><atom:link href="https://jwcaterine.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Coding Video Walkthrough</title>
+      <link>https://jwcaterine.com/posts/loc/</link>
+      <pubDate>Mon, 26 Jun 2023 13:14:14 -0400</pubDate>
+      
+      <guid>https://jwcaterine.com/posts/loc/</guid>
+      <description>Today I published a story for Virginia Mercury about failures of the state&amp;rsquo;s psychiatric system, specifically not having enough beds to accomodate those in mental health crisis. I recorded a video walkthrough on how I was able to write some simple code in Python to extract, analyze, and visualize the data from a public records request that became the basis of this story.
+  </description>
+    </item>
+    
     <item>
       <title>Colonial Parkway Rehabilitation</title>
       <link>https://jwcaterine.com/posts/colrehab/</link>
