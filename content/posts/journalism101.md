@@ -7,7 +7,7 @@ tags: ["Tutorial", "Journalism"]
 This week I posted a quick tutorial on [Reddit](https://www.reddit.com/r/Journalism/comments/1551k29/how_to_get_into_journalism_with_no_experience/) about how to cover a local government meeting if you want to start a career in journalism:
 
 {{< youtube TnzXjfjtlTQ >}}
-
+<br>
 "Howdy! For those of you who still want to get into journalism despite the many warnings about why you shouldn't, I wanted to share some advice on how to start as a freelance journalist even if you have no experience. I've been working in the US news industry since 2016, and I never went to school for journalism.
 
 For this post I want to share how you can get what you need to pitch your first article to a local paper and get paid (not much!). I realize I am oversimplifying the crap out of the process, but my goal is to show that it really is easy to get started. Just keep in mind that actually becoming a good journalist takes a lot of time and perseverance.
