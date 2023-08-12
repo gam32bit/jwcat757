@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Health on </title>
-    <link>https://jwcaterine.com/tags/health/</link>
+    <link>https://gam32bit.github.io/tags/health/</link>
     <description>Recent content in Health on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Jul 2023 08:57:40 -0400</lastBuildDate><atom:link href="https://jwcaterine.com/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 08:57:40 -0400</lastBuildDate><atom:link href="https://gam32bit.github.io/tags/health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eastern State Property Sale</title>
-      <link>https://jwcaterine.com/posts/easternstate/</link>
+      <link>https://gam32bit.github.io/posts/easternstate/</link>
       <pubDate>Sat, 01 Jul 2023 08:57:40 -0400</pubDate>
       
-      <guid>https://jwcaterine.com/posts/easternstate/</guid>
+      <guid>https://gam32bit.github.io/posts/easternstate/</guid>
       <description>Fun fact - I actually ran a cross-country meet in high school on the Eastern State Hospital campus. Now over 300 acres of that property is for sale, although the finalized timeline of when a deal will close is still up in the air. These parcels were determined to be in excess of what the hospital needed, although my other recent report on the shortage of state beds for psychiatric patients brings that assessment into question.</description>
     </item>
     
     <item>
       <title>First Coding Video Walkthrough</title>
-      <link>https://jwcaterine.com/posts/loc/</link>
+      <link>https://gam32bit.github.io/posts/loc/</link>
       <pubDate>Mon, 26 Jun 2023 13:14:14 -0400</pubDate>
       
-      <guid>https://jwcaterine.com/posts/loc/</guid>
+      <guid>https://gam32bit.github.io/posts/loc/</guid>
       <description>Today I published a story for Virginia Mercury about failures of the state&amp;rsquo;s psychiatric system, specifically not having enough beds to accomodate those in mental health crisis. I recorded a video walkthrough on how I was able to write some simple code in Python to extract, analyze, and visualize the data from a public records request that became the basis of this story.
   </description>
     </item>
     
     <item>
       <title>JCC to Join York Emergency Center</title>
-      <link>https://jwcaterine.com/posts/ems/</link>
+      <link>https://gam32bit.github.io/posts/ems/</link>
       <pubDate>Sat, 10 Jun 2023 07:12:57 -0400</pubDate>
       
-      <guid>https://jwcaterine.com/posts/ems/</guid>
+      <guid>https://gam32bit.github.io/posts/ems/</guid>
       <description>Published a story this week on the pending merger of the local emergency call center to now include James City County.</description>
     </item>
     
     <item>
       <title>USDA Funding for Food Banks Delayed</title>
-      <link>https://jwcaterine.com/posts/snap/</link>
+      <link>https://gam32bit.github.io/posts/snap/</link>
       <pubDate>Tue, 30 May 2023 09:27:00 -0400</pubDate>
       
-      <guid>https://jwcaterine.com/posts/snap/</guid>
+      <guid>https://gam32bit.github.io/posts/snap/</guid>
       <description>It&amp;rsquo;s still unclear why over $6 million in USDA funding for VA farmers and food banks took so long to be released. This was one of those stories that was developing as I was covering it which is always exciting if a little nerve-wracking.</description>
     </item>
     
     <item>
       <title>Lawrenceville Correctional Center</title>
-      <link>https://jwcaterine.com/posts/lvcc/</link>
+      <link>https://gam32bit.github.io/posts/lvcc/</link>
       <pubDate>Wed, 26 Apr 2023 15:23:14 -0400</pubDate>
       
-      <guid>https://jwcaterine.com/posts/lvcc/</guid>
+      <guid>https://gam32bit.github.io/posts/lvcc/</guid>
       <description>I published my first article in the Virginia Mercury on the only privately run prison in Virginia, Lawrenceville Correctional Center. I obtained a series of memos from the Virginia Department of Corrections that showed GEO Group, the private operator, has had $4.3 million in contract breaches since 2018. I uploaded the memos to DocumentCloud along with the contract and other related documents.</description>
     </item>
     

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tutorial on </title>
-    <link>https://jwcaterine.com/tags/tutorial/</link>
+    <link>https://gam32bit.github.io/tags/tutorial/</link>
     <description>Recent content in Tutorial on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 Jul 2023 10:58:54 -0400</lastBuildDate><atom:link href="https://jwcaterine.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jul 2023 10:58:54 -0400</lastBuildDate><atom:link href="https://gam32bit.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Journalism 101</title>
-      <link>https://jwcaterine.com/posts/journalism101/</link>
+      <link>https://gam32bit.github.io/posts/journalism101/</link>
       <pubDate>Sat, 22 Jul 2023 10:58:54 -0400</pubDate>
       
-      <guid>https://jwcaterine.com/posts/journalism101/</guid>
+      <guid>https://gam32bit.github.io/posts/journalism101/</guid>
       <description>This week I posted a quick tutorial on Reddit about how to cover a local government meeting if you want to start a career in journalism:
    &amp;ldquo;Howdy! For those of you who still want to get into journalism despite the many warnings about why you shouldn&amp;rsquo;t, I wanted to share some advice on how to start as a freelance journalist even if you have no experience. I&amp;rsquo;ve been working in the US news industry since 2016, and I never went to school for journalism.</description>
     </item>
     
     <item>
       <title>First Coding Video Walkthrough</title>
-      <link>https://jwcaterine.com/posts/loc/</link>
+      <link>https://gam32bit.github.io/posts/loc/</link>
       <pubDate>Mon, 26 Jun 2023 13:14:14 -0400</pubDate>
       
-      <guid>https://jwcaterine.com/posts/loc/</guid>
+      <guid>https://gam32bit.github.io/posts/loc/</guid>
       <description>Today I published a story for Virginia Mercury about failures of the state&amp;rsquo;s psychiatric system, specifically not having enough beds to accomodate those in mental health crisis. I recorded a video walkthrough on how I was able to write some simple code in Python to extract, analyze, and visualize the data from a public records request that became the basis of this story.
   </description>
     </item>

@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Virginia on </title>
-    <link>https://jwcaterine.com/tags/virginia/</link>
+    <link>https://gam32bit.github.io/tags/virginia/</link>
     <description>Recent content in Virginia on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 31 Jul 2023 15:33:38 -0400</lastBuildDate><atom:link href="https://jwcaterine.com/tags/virginia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jul 2023 15:33:38 -0400</lastBuildDate><atom:link href="https://gam32bit.github.io/tags/virginia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Virginia Business August Issue</title>
-      <link>https://jwcaterine.com/posts/vbaugust/</link>
+      <link>https://gam32bit.github.io/posts/vbaugust/</link>
       <pubDate>Mon, 31 Jul 2023 15:33:38 -0400</pubDate>
       
-      <guid>https://jwcaterine.com/posts/vbaugust/</guid>
+      <guid>https://gam32bit.github.io/posts/vbaugust/</guid>
       <description>I have four stories in the August Issue of Virginia Business: one on Richmond&amp;rsquo;s repeal of minimum parking requirements, one on a couple of Virginia startup incubators competing for a SBA grant, one on a new tuition-assistance program at MBU, and one about the city of Bristol&amp;rsquo;s switch to a new destination marketing organization in Southwest Virginia.
 This is the first time I&amp;rsquo;ve published my work in a magazine - happy to put another notch on my journalism belt!</description>
     </item>
     
     <item>
       <title>Eastern State Property Sale</title>
-      <link>https://jwcaterine.com/posts/easternstate/</link>
+      <link>https://gam32bit.github.io/posts/easternstate/</link>
       <pubDate>Sat, 01 Jul 2023 08:57:40 -0400</pubDate>
       
-      <guid>https://jwcaterine.com/posts/easternstate/</guid>
+      <guid>https://gam32bit.github.io/posts/easternstate/</guid>
       <description>Fun fact - I actually ran a cross-country meet in high school on the Eastern State Hospital campus. Now over 300 acres of that property is for sale, although the finalized timeline of when a deal will close is still up in the air. These parcels were determined to be in excess of what the hospital needed, although my other recent report on the shortage of state beds for psychiatric patients brings that assessment into question.</description>
     </item>
     
     <item>
       <title>First Coding Video Walkthrough</title>
-      <link>https://jwcaterine.com/posts/loc/</link>
+      <link>https://gam32bit.github.io/posts/loc/</link>
       <pubDate>Mon, 26 Jun 2023 13:14:14 -0400</pubDate>
       
-      <guid>https://jwcaterine.com/posts/loc/</guid>
+      <guid>https://gam32bit.github.io/posts/loc/</guid>
       <description>Today I published a story for Virginia Mercury about failures of the state&amp;rsquo;s psychiatric system, specifically not having enough beds to accomodate those in mental health crisis. I recorded a video walkthrough on how I was able to write some simple code in Python to extract, analyze, and visualize the data from a public records request that became the basis of this story.
   </description>
     </item>
